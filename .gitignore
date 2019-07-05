@@ -32,3 +32,6 @@
 
 # VSCode
 .vscode
+
+# Jetbrains
+.idea/
