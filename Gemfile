@@ -81,3 +81,7 @@ gem 'dotenv-rails', groups: [:development, :test]
 
 # Windows
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem 'carrierwave'
+gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+gem 'fog-aws'
